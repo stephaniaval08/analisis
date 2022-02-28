@@ -7,6 +7,6 @@ var grado="10a"//string
 var edadEstudiante//int
 nombreEstudiantes="valeria"
  edadEstudiante=prompt("ingrese su edad:");
- console.log("el estudiante "+nombreEstuadiantes+"del grado"+grado+"tiene"+edadEstudiante+"años");
+ console.log("el estudiante "+nombreEstudiantes+"del grado"+grado+"tiene"+edadEstudiante+"años");
 
 
