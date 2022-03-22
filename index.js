@@ -109,6 +109,35 @@ nombrecito[0]="p";
 console.log(nombrecito);
 nombrecito="valeria";
 console.log(nombrecito);
+//parseo o casting
+/*se trata de convertir las edades a otro tipo de dato,los cambios existentes son:
+*a entero parseInt()
+*a decimal paseFloat()
+*a cadena String()
+*/
+//convertir variable
+var entero1=prompt("ingrese un entero");
+var entero2=prompt("ingrese otro entero");
+var suma=entero1+entero2;
+console.log("sin parseInt" + suma);
+//forma 1
+/*convertir el dato justo en el momento en que se recibe por teclado 
+esto implica que cuando se llame la variable ya este convertida al tipo de dato deseado 
+*/
+entero1=parseInt(prompt("ingrese un entero"));                                                                                          
+entero2=parseInt(prompt("ingrese otro entero"));
+suma=entero1+entero2;
+console.log("convertido "+suma);
+
+var altura=parseInt(prompt("ingrese una altura"));
+var base=parseInt(prompt("ingrese una base"));
+var p=altura+base+altura+base;
+console.log("el perimetro del rectangulo es: " + p);
+
+
+
+
+
 
 
 
