@@ -1,0 +1,11 @@
+Taller 1: Nota 4.8
+    * Faltó el comentario multilinea
+Taller 2: Nota 3.8
+    * linea 6, mensaje incorrecto, debe ser del cuadrado
+    * linea (5, 6, 7), (10, 11, 12), (15,16),(17,18),(22,23), (24,25) crean dos o mas veces la misma variable
+    * linea 33, operacion incorrecta
+    * linea 34, no debe pedir el area, debe hallarla a partir del diametro
+    * linea 35, no debe pedir el volumen, debe hallarlo a partir del diametro
+    * Las operaciones de las lineas 36 y 37 están bien, pero el valor del diametro está mal.
+    * linea 50, mensaje incorrecto
+    * linea 69, operacion incorrecta
