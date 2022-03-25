@@ -1,3 +1,6 @@
+valeria y stephania
+
+
 Taller 1: Nota 4.8
     * Faltó el comentario multilinea
 Taller 2: Nota 3.8
@@ -9,3 +12,6 @@ Taller 2: Nota 3.8
     * Las operaciones de las lineas 36 y 37 están bien, pero el valor del diametro está mal.
     * linea 50, mensaje incorrecto
     * linea 69, operacion incorrecta
+
+Taller 3 (Recuperación): Nota 5
+    * 
