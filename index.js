@@ -157,3 +157,6 @@ console.log("el perimetro del rectangulo es: " + p);
 
 
 
+
+
+
