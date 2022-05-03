@@ -15,3 +15,11 @@ Taller 2: Nota 3.8
 
 Taller 3 (Recuperación): Nota 5
     * 
+
+*********************** segundo periodo
+
+taller 1: Nota 4.5
+    * punto 3, no está resuelto
+    * punto 12, no muestra cuando es una consonante
+
+enlace examen: https://acortar.link/a0gxi0
