@@ -38,3 +38,4 @@ exame while: nota 4.2
     * linea 20, no es multiplicacion. La variable cajero no debe estar ahí
     * punto 4, tiene al revés los descuentos pero sé que fui yo el que no cambió esos números 🙄😅🙈
     * linea 80, debe ser <=
+    
