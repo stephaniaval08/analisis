@@ -39,3 +39,4 @@ exame while: nota 4.2
     * punto 4, tiene al revés los descuentos pero sé que fui yo el que no cambió esos números 🙄😅🙈
     * linea 80, debe ser <=
     
+ciclo for: nota *** no se subió el archivo ***
