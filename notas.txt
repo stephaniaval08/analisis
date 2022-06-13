@@ -23,3 +23,23 @@ taller 1: Nota 4.5
     * punto 12, no muestra cuando es una consonante
 
 enlace examen: https://acortar.link/a0gxi0
+<<<<<<< HEAD
+=======
+
+
+Examen condicionales: Stephania 4.5, Valeria ?
+
+taller while: nota 4.8
+    * punto 5, más claridad en el mensaje para que el usuario sepa como detenerlo
+    * linea 64, no tiene valor no se puede incrementar. Ciclo infinito
+    * punto 8 incompleto no suma bonus
+    * no desarrolló el 9
+
+
+exame while: nota 4.2
+    * linea 20, no es multiplicacion. La variable cajero no debe estar ahí
+    * punto 4, tiene al revés los descuentos pero sé que fui yo el que no cambió esos números 🙄😅🙈
+    * linea 80, debe ser <=
+    
+ciclo for: nota *** no se subió el archivo ***
+>>>>>>> 52068d56295d45526f45acf6c9c7c4655aa7574d
