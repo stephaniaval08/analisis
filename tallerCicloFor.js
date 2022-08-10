@@ -11,9 +11,7 @@ if(num1<num2){
         console.log(i);
         }}
         //Este punto fue el que me pusiste para la nota del examen que no pude realizar
-        if(num1==num2)
-        for(var o=num1; o==num2;   o++ ){
-        console.log(o)}
+               
 
 console.log("PUNTO 2");
 var multiplos=prompt("Ingrese un número para conocer sus múltiplos");
@@ -29,7 +27,7 @@ for(var p=0; p<=final; p++){
      console.log(inicio + "X" + p +  "="+ inicio*p );
  }  
 }
-*/
+
 
 /*console.log("PUNTO 4");
 var arregloNúmeros=[]
@@ -45,8 +43,8 @@ for(var i=0; i<=arregloNúmeros.length; i++){
     mayor=arregloNúmeros[i];
     }
     console.log("El número mayor es" + mayor);
-    */
-
+    
+              
 
 console.log("PUNTO 5")
  var arregloArti=[];
